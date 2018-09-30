@@ -11,7 +11,7 @@ Add your Name to this README file and Submit your first Pull Request for Hacktob
 7. Hk10010010
 8. Kunal Sonawane
 9. John Ennis
-10.
+10. Alexandre Pereira Santos
 11.
 12.
 13.

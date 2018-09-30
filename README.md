@@ -4,9 +4,9 @@ Add your Name to this README file and Submit your first Pull Request for Hacktob
 
 1. Adly Loukil
 2. Arghyadeep Das
-3. DarkSun27
-4.
-5.
+3. Nicolas Fernandez
+4. MasterKN48
+5. DarkSun27
 6.
 7.
 8.

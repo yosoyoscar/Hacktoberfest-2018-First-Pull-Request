@@ -7,8 +7,8 @@ Add your Name to this README file and Submit your first Pull Request for Hacktob
 3. Nicolas Fernandez
 4. MasterKN48
 5. DarkSun27
-6.blackwolf08
-7.
+6. blackwolf08
+7. Hk10010010
 8.
 9.
 10.

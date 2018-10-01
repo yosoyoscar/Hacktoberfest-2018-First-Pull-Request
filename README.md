@@ -22,7 +22,7 @@ Add your Name to this README file and Submit your first Pull Request for Hacktob
 18. Witaya Tospitakkul
 19. Pankhuri Kasliwal
 20. Arendt
-21.
+21. Arjun Rajpal
 22.
 23.
 24.

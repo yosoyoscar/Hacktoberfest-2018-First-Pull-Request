@@ -14,10 +14,10 @@ Add your Name to this README file and Submit your first Pull Request for Hacktob
 10. Alexandre Pereira Santos
 11. Peter Haddad
 12. Nazar Nasirzada
-13. e20zip
-14. 
-15.
-16.
+13. Atiqah Hafiz
+14. HackedByMKN
+15. exilednick
+16. e20zip
 17.
 18.
 19.

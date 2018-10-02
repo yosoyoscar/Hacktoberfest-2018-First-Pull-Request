@@ -26,7 +26,7 @@ Add your Name to this README file and Submit your first Pull Request for Hacktob
 22. Arwin Neil
 23. Andrey Serbin
 24. Rachel Stratemeier
-25.
+25. Javi
 26.
 27.
 28.

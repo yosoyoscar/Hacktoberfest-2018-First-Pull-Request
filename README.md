@@ -30,7 +30,7 @@ Add your Name to this README file and Submit your first Pull Request for Hacktob
 26. Fraser
 27. Steev James
 28. Richard Davis
-29.
+29. Yordan Zhelev
 30.
 31.
 32.

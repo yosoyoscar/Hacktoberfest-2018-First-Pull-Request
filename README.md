@@ -34,7 +34,7 @@ Add your Name to this README file and Submit your first Pull Request for Hacktob
 30. Mohammad Wahyu Sanusi Putra
 31. thvardhan
 32. Eric Moynihan
-33.
+33. Aaron Rodriguez
 34.
 36.
 37.

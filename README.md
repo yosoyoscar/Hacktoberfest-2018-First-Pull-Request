@@ -23,15 +23,15 @@ Add your Name to this README file and Submit your first Pull Request for Hacktob
 19. Pankhuri Kasliwal
 20. Arendt
 21. Arjun Rajpal
-22. Mohammad Wahyu Sanusi Putra
-23.
-24.
-25.
-26.
-27.
-28.
-29.
-30.
+22. Arwin Neil
+23. Andrey Serbin
+24. Rachel Stratemeier
+25. Javi
+26. Fraser
+27. Steev James
+28. Richard Davis
+29. Yordan Zhelev
+30. Mohammad Wahyu Sanusi Putra
 31.
 32.
 33.

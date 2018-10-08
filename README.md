@@ -42,7 +42,7 @@ Add your Name to this README file and Submit your first Pull Request for Hacktob
 39. Ana Letícia
 40. khawoat6
 41. LW001
-42.
+42. Aditya Singhal
 43.
 44.
 45.

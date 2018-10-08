@@ -37,11 +37,11 @@ Add your Name to this README file and Submit your first Pull Request for Hacktob
 33. Aaron Rodriguez
 34. Shayan
 36. Anushka Bhandari
-37. LW001
-38.
-39.
-40.
-41.
+37. Prabhu Sharan Singh
+38. TrAnn3l
+39. Ana Letícia
+40. khawoat6
+41. LW001
 42.
 43.
 44.

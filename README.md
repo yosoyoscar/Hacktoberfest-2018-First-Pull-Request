@@ -44,8 +44,8 @@ Add your Name to this README file and Submit your first Pull Request for Hacktob
 41. LW001
 42. Aditya Singhal
 43. Nythiennzo
-44. Fahmi Muhammad
-45.
+44. Sam Mansch
+45. Fahmi Muhammad
 46.
 47.
 48.

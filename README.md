@@ -50,7 +50,7 @@ Add your Name to this README file and Submit your first Pull Request for Hacktob
 47. Dhanajayan K
 48.
 49.
-50.
+50. Tania Nag
 51.
 52.
 53.

@@ -1,6 +1,6 @@
 # Hacktoberfest 2018 Easy First Pull Request
 
-Add your Name to this READ.ME file to Submit your first Pull Request for Hacktoberfest 2018!
+Add your Name to this README.md file to Submit your first Pull Request for Hacktoberfest 2018!
 
 1. Adly Loukil
 2. Arghyadeep Das

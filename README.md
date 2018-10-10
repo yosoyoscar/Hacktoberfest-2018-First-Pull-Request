@@ -48,7 +48,7 @@ Add your Name to this README file and Submit your first Pull Request for Hacktob
 45. Fahmi Muhammad
 46. Mahmoud Geberty
 47. Dhanajayan K
-48.
+48. Amrita Singha Roy
 49.
 50.
 51.

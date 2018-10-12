@@ -1,6 +1,6 @@
-# Hacktoberfest-2018-First-Pull-Request
+# Hacktoberfest 2018 Easy First Pull Request
 
-Add your Name to this README file and Submit your first Pull Request for Hacktoberfest 2018!
+Add your Name to this README.md file to Submit your first Pull Request for Hacktoberfest 2018!
 
 1. Adly Loukil
 2. Arghyadeep Das
@@ -48,8 +48,8 @@ Add your Name to this README file and Submit your first Pull Request for Hacktob
 45. Fahmi Muhammad
 46. Mahmoud Geberty
 47. Dhanajayan K
-48. Tania Nag
-49.
+48. Amrita Singha Roy
+49. Tania Nag
 50. 
 51.
 52.

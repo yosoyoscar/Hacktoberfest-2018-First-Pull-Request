@@ -22,7 +22,7 @@ Add your Name to this README.md file to Submit your first Pull Request for Hackt
 18. Witaya Tospitakkul
 19. Pankhuri Kasliwal
 20. Arendt
-21. Arjun Rajpal 
+21. Arjun Rajpal
 22. Arwin Neil
 23. Andrey Serbin
 24. Rachel Stratemeier
@@ -54,15 +54,15 @@ Add your Name to this README.md file to Submit your first Pull Request for Hackt
 51. Lucas van Beek
 52. Yvan Watchman
 53. Muhammad Fahmy Amirun Nizar
-54.Shehani Ranasinghe
-55.
-56.
-57.
-58.
-59.
-60.
-61.
-62.
+54. Thomas Letsch Groch
+55. janises
+56. Bambang Supriadi
+57. Putu Jaya Adi Pranata
+58. Luciano Santos
+59. William Francis
+60. João Vitor de Paiva Freitas
+61. Michal Cerman
+62. Shehani Ranasinghe
 63.
 64.
 65.

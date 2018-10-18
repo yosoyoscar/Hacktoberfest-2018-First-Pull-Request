@@ -54,10 +54,10 @@ Add your Name to this README.md file to Submit your first Pull Request for Hackt
 51. Lucas van Beek
 52. Yvan Watchman
 53. Muhammad Fahmy Amirun Nizar
-54. Putu Jaya Adi Pranata
-55.
-56.
-57.
+54. Thomas Letsch Groch
+55. janises
+56. Bambang Supriadi
+57. Putu Jaya Adi Pranata
 58.
 59.
 60.

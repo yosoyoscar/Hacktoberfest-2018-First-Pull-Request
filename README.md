@@ -61,7 +61,7 @@ Add your Name to this README.md file to Submit your first Pull Request for Hackt
 58. Luciano Santos
 59. William Francis
 60. João Vitor de Paiva Freitas
-61.
+61. Michal Cerman
 62.
 63.
 64.

@@ -60,7 +60,7 @@ Add your Name to this README.md file to Submit your first Pull Request for Hackt
 57. Putu Jaya Adi Pranata
 58. Luciano Santos
 59. William Francis
-60.
+60. João Vitor de Paiva Freitas
 61.
 62.
 63.

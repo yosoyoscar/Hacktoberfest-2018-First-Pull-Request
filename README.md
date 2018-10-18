@@ -54,7 +54,7 @@ Add your Name to this README.md file to Submit your first Pull Request for Hackt
 51. Lucas van Beek
 52. Yvan Watchman
 53. Muhammad Fahmy Amirun Nizar
-54.
+54. Michal Cerman
 55.
 56.
 57.

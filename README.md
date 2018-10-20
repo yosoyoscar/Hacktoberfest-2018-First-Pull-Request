@@ -64,8 +64,8 @@ Add your Name to this README.md file to Submit your first Pull Request for Hackt
 61. Michal Cerman
 62. Shehani Ranasinghe
 63. Ricardo Jacinto
-64. Gabriel Araujo
-65.
+64. Putu Jaya Adi Pranata
+65. Gabriel Araujo
 66.
 67.
 68.

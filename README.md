@@ -69,8 +69,8 @@ Add your Name to this README.md file to Submit your first Pull Request for Hackt
 66. Vishal Kichloo
 67. JAMES BABU
 68. Kelvin Osh
-69. Deyan Atanasov
-70.
+69. Yasmin Zulfati Yusrina
+70. Deyan Atanasov
 71.
 72.
 73.

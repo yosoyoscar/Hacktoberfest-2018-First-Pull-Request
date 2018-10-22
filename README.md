@@ -76,7 +76,7 @@ Add your Name to this README.md file to Submit your first Pull Request for Hackt
 73. Jeff attride
 74. Adam Purcell
 75. Nathan Fiscus
-76.
+76. Rajan Girsa
 77.
 78.
 79.

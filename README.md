@@ -1,4 +1,4 @@
-# Hacktoberfest 2018 Easy First Pull Request
+﻿# Hacktoberfest 2018 Easy First Pull Request
 
 Add your Name to this README.md file to Submit your first Pull Request for Hacktoberfest 2018!
 
@@ -69,10 +69,10 @@ Add your Name to this README.md file to Submit your first Pull Request for Hackt
 66. Vishal Kichloo
 67. JAMES BABU
 68. Kelvin Osh
-69. Adam Purcell
-70.
-71.
-72.
+69. Yasmin Zulfati Yusrina
+70. Deyan Atanasov
+71. Rahul R
+72. Adam Purcell
 73.
 74.
 75.

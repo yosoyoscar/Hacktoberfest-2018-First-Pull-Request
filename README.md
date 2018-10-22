@@ -69,8 +69,7 @@ Add your Name to this README.md file to Submit your first Pull Request for Hackt
 66. Vishal Kichloo
 67. JAMES BABU
 68. Kelvin Osh
-69. Adam Purcell
-70.
+69. 
 71.
 72.
 73.
